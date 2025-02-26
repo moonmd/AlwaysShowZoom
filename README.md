@@ -1,6 +1,8 @@
 # AlwaysShowZoom
 ### Minimal Chrome &amp; Edge Extension to always show the Zoom Button (Magnify icon in the URL box)
 
+### Get AlwaysShowZoom on the [Chrome Web Store](https://chromewebstore.google.com/detail/always-show-zoom/gjmgohadapodpamhimnnjnkjgnodljfe)
+
 This has been outstanding for years as tracked at the following pages:
 - [Chrome Zoom Icon always visible - Google Chrome Community](https://techcommunity.microsoft.com/discussions/edgeinsiderdiscussions/always-show-zoom-button/2013389/replies/2013432)
 - [Always show Zoom button | Microsoft Community Hub](https://support.google.com/chrome/thread/48061536/chrome-zoom-icon-always-visible?hl=en)
